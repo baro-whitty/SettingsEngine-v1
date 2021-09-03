@@ -1,0 +1,7 @@
+Set PluginDatabase = "EnterDatabase"
+Set ServerDatabase = "EnterDatabase"
+Set ClientDatabase = "EnterDatabase"
+Set Boat52 = "EnterBoatID"
+Set Boat58 = "EnterBoatID"
+  Remanage(fully);
+  Refresh(fileIn.fully);
